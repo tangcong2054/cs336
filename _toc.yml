@@ -9,3 +9,6 @@ parts:
     chapters:
       - file: note/1.1_bpe 
       - file: note/1.2_transformer
+  - caption: 附录
+    chapters: 
+      - file: note/appendix/formula/softmax
